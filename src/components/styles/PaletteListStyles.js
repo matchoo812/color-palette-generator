@@ -18,6 +18,10 @@ export default {
     width: "100%",
     justifyContent: "space-between",
     color: "#fff",
+    alignItems: "center",
+    "& a": {
+      color: "#fff",
+    },
   },
   palettes: {
     boxSizing: "border-box",
